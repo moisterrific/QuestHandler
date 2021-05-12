@@ -1,0 +1,6 @@
+# Ignore compiled library (.dll) files
+/QuestHandler/bin/
+/QuestHandler/obj/
+
+# Visual Studio Directory Exclude
+.vs/
